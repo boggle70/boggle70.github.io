@@ -88,5 +88,4 @@ exclude:
   - spec
   - tmp
   
-  remote_theme : mmistakes/minimal-mistakes
   
